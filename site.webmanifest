@@ -1,0 +1,23 @@
+{
+  "name": "IJ7 Game Official App",
+  "short_name": "IJ7 Game",
+  "description": "Ultra-Smooth Lightweight IJ7 Cash Arcade & Instant UPI Payouts",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#081E18",
+  "theme_color": "#10B981",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml"
+    }
+  ]
+}
