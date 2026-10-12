@@ -1,9 +1,14 @@
 # IJ7 Game Official Repository | ij7game.cloud
 
+[![Live Website / GitHub Pages](https://img.shields.io/badge/Live%20Website-GitHub%20Pages-2ea44f?style=for-the-badge&logo=github)](https://AryaaKP.github.io/ij7game-cloud/)
 [![Official Website](https://img.shields.io/badge/Official%20Site-ij7game.cloud-brightgreen?style=for-the-badge)](https://ij7game.cloud)
 [![Direct Referral](https://img.shields.io/badge/Direct%20Download-Claim%20₹500%20Free%20Bonus-gold?style=for-the-badge)](https://share-xjvfly24zg.ij7game.org/share/agent/SSWWBM6N?data=eyJtIjoxLCJsYW5nIjoiZW4iLCJpZCI6MX0=)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Join%20VIP-blue?style=for-the-badge)](https://t.me/winrealcash500)
 [![License](https://img.shields.io/badge/Fair%20Play-100%25%20Verified%20RNG-blueviolet?style=for-the-badge)](https://ij7game.cloud)
+
+> 🌐 **Live Website / GitHub Pages:** [https://AryaaKP.github.io/ij7game-cloud/](https://AryaaKP.github.io/ij7game-cloud/)
+> 
+> 🔗 **Official Domain Mirror:** [https://ij7game.cloud](https://ij7game.cloud) | ⬇ **Direct APK Referral:** [₹500 Free Bonus](https://share-xjvfly24zg.ij7game.org/share/agent/SSWWBM6N?data=eyJtIjoxLCJsYW5nIjoiZW4iLCJpZCI6MX0=)
 
 Welcome to the definitive, fully humanized documentation and web repository for **IJ7 Game** ([https://ij7game.cloud](https://ij7game.cloud)). This documentation serves as a comprehensive reference guide for users, players, developers, and community managers seeking verified APK download links, mathematical fairness disclosures, problem-solving walkthroughs, and organic search term optimization.
 
@@ -60,6 +65,7 @@ To dominate organic Google, Bing, and YouTube searches, this repository directly
 | :--- | :--- |
 | **Application Title** | IJ7 Game (Official Release 2026) |
 | **Canonical Domain** | [`https://ij7game.cloud`](https://ij7game.cloud) |
+| **Live Website (GitHub Pages)** | [`https://AryaaKP.github.io/ij7game-cloud/`](https://AryaaKP.github.io/ij7game-cloud/) |
 | **Theme / Aesthetic** | Neon Mint Emerald (Hex: `#10B981` / `#081E18`) |
 | **Active Referral CTA Link** | [`https://share-xjvfly24zg.ij7game.org/share/agent/SSWWBM6N?data=eyJtIjoxLCJsYW5nIjoiZW4iLCJpZCI6MX0=`](https://share-xjvfly24zg.ij7game.org/share/agent/SSWWBM6N?data=eyJtIjoxLCJsYW5nIjoiZW4iLCJpZCI6MX0=) |
 | **Official VIP Telegram** | [`https://t.me/winrealcash500`](https://t.me/winrealcash500) |
@@ -196,5 +202,6 @@ Aviator ek cryptographic crash game hai jisme multiplier har round me randomly c
 This game involves an element of financial risk and may be habit-forming. Please play responsibly and within your financial limits. Participation is strictly restricted to persons aged 18 years and above. Not applicable in territories where local legislation restricts online skill-based cash competitions (such as Andhra Pradesh, Telangana, Assam, Odisha, and Nagaland).
 
 - **Official Web Domain:** [https://ij7game.cloud](https://ij7game.cloud)
+- **Live Website (GitHub Pages):** [https://AryaaKP.github.io/ij7game-cloud/](https://AryaaKP.github.io/ij7game-cloud/)
 - **Direct Referral Installation:** [https://share-xjvfly24zg.ij7game.org/share/agent/SSWWBM6N?data=eyJtIjoxLCJsYW5nIjoiZW4iLCJpZCI6MX0=](https://share-xjvfly24zg.ij7game.org/share/agent/SSWWBM6N?data=eyJtIjoxLCJsYW5nIjoiZW4iLCJpZCI6MX0=)
 - **Community VIP Telegram:** [https://t.me/winrealcash500](https://t.me/winrealcash500)
